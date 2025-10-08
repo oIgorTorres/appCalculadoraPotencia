@@ -35,7 +35,7 @@ app/
  │    ├── drawable/
  │    │     ├── graph.png
  │    │     ├── ic_launcher_background.xml
- │    │     ├── ic_launcher_background.xml
+ │    │     ├── ic_launcher_foreground.xml
  │    │     └── search.png
  │    └── values/
  │          └── strings.xml
@@ -51,7 +51,7 @@ app/
 O layout principal (`activity_main.xml`) contém:
 - 1 botão (calcular)
 - 2 `ImageView` (.png)
-- 1 `TextView` (resultado para consumo de energia e para custo total)
+- 2 `TextView` (resultado para consumo de energia e para custo total)
 
 
 
