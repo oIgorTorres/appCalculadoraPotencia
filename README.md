@@ -53,7 +53,15 @@ O layout principal (`activity_main.xml`) contém:
 - 2 `ImageView` (.png)
 - 2 `TextView` (resultado para consumo de energia e para custo total)
 
+---
 
+## 📸 Demonstração
+
+### Tela inicial
+
+![Figura 1:](/img/img.png)
+
+---
 
 ## 👩‍💻 Autor / Equipe
 
