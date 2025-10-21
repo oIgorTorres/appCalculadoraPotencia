@@ -52,6 +52,7 @@ O layout principal (`activity_main.xml`) contém:
 - 1 botão (calcular)
 - 2 `ImageView` (.png)
 - 2 `TextView` (resultado para consumo de energia e para custo total)
+- 3 Plain Text (Para potência, tempo e preço)
 
 ---
 
